@@ -1,1 +1,2 @@
-neo.hello: dev update
+neo:
+  hello: dev update
